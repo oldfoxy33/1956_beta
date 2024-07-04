@@ -16,7 +16,7 @@ focus_tree = {
 	focus = {
 		id = BHU_aftermath_of_the_visit_to_india
 		icon = GFX_goal_RAJ_British_India_Borders
-		x = 12
+		x = 11
 		y = 0
 		cost = 5
 
