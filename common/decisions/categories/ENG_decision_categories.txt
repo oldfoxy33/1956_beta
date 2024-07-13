@@ -104,3 +104,10 @@ ENG_enforce_the_naval_treaties = {
 		original_tag = ENG
 	}
 }
+ENG_anti_fascist_street_warfare = {
+	icon = GFX_decision_category_ICE_infiltrate_the_british_isles
+
+	allowed = {
+		original_tag = ENG
+	}
+}
