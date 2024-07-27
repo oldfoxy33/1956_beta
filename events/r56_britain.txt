@@ -1,0 +1,32 @@
+﻿###########################
+# RT56 britain events
+###########################
+
+add_namespace = r56_britain
+
+# Abdication Crisis Edward VIII - Kings party vs General election 
+country_event = {
+	id = r56_britain.1
+	title = r56_britain.t
+	desc = r56_britain.d
+	picture = GFX_report_event_royal_parade
+	is_triggered_only = yes
+	
+	
+	# Kings party
+	option = {
+		name = r56_britain.a
+		set_country_flag = kings_party
+	}
+	# General election
+	option = {
+		name = r56_britain.b
+		complete_national_focus = general_election
+		
+	}
+
+
+}
+
+
+

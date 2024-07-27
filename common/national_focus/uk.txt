@@ -9856,7 +9856,7 @@ focus_tree = {
 		cost = 5
 
 		available = {
-			always = no
+			has_country_flag = general_election
 		}
 		completion_reward = {
 			
@@ -12484,7 +12484,7 @@ focus_tree = {
 		prerequisite = { focus = ENG_a_change_in_course }
 		mutually_exclusive = { focus = ENG_emergancy_elections }
 		available = {
-			has_country_flag = edward_viii_married_wallis_simpson
+			has_country_flag = kings_party
 			is_subject = no
 			has_war = no
 		}

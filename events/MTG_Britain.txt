@@ -581,8 +581,10 @@ country_event = {
 		add_popularity = { ideology = neutrality popularity = 0.05 }
 		add_stability = 0.05
 		add_political_power = 50
+		hidden_effect = { country_event = { id = r56_britain.1 days = 30 } }
 	}
 }
+
 
 # Abdication Crisis Edward VIII - random event generator
 country_event = {
